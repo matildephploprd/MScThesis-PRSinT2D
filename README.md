@@ -10,6 +10,8 @@ In recent years, polygenic risk score models have become powerful tools for anal
 **Keywords:** Genetic Predisposition; Linkage Disequilibrium; Polygenic Risk Scores; Preventive Medicine; Ranking; Type 2
 diabetes
 
+The full Master's thesis document is publicly available [here](https://ulisboa-my.sharepoint.com/:f:/g/personal/ist192773_tecnico_ulisboa_pt/IgDwRc8o-lJKQqdeOdS9zfsoASx9OvItGPJkZd8klBswrso?e=00ToXM) and provides a detailed description of the methods, results, and discussion
+
 ----
 
 ## Repository overview
